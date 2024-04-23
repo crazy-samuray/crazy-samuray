@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hello World! 👋 </h1>
 
-*🔭 I’m currently working on 📖🐍Python🐍📖
+*🌱 I’m currently learning 📖🐍Python🐍📖
 -Hi! I'm Ayaz I am 10 years old.I'm learning the phython#
 <br> 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJpbmxzZmkxcDU4ZmxxM2diam80aWwyNDFpMWplOTliZnBwc3VycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="130">
