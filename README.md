@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 #🔭 I’m currently working on 📖🐍Python🐍📖
 Hi! I'm Ayaz I am 10 years old.I'm learning the phython
