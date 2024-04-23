@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on 📖🐍Python🐍📖
+Hi! I'm Ayaz I am 10 years old.I'm learning the phython
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJpbmxzZmkxcDU4ZmxxM2diam80aWwyNDFpMWplOTliZnBwc3VycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="130">
 
 <!--
 **crazy-samuray/crazy-samuray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
